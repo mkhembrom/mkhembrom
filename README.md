@@ -1,4 +1,11 @@
-## Hi 👋 My name is Manjesh Hembrom.
+# Hi 👋,
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 #### I like making things on **React/Nextjs** and **Flutter**. 
 <!--
