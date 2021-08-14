@@ -1,6 +1,6 @@
-### Hi 👋 My name is Manjesh Hembrom.
+## Hi 👋 My name is Manjesh Hembrom.
 
-## I like making things on **React/Nextjs** and **Flutter**. 
+#### I like making things on **React/Nextjs** and **Flutter**. 
 <!--
 **mkhembrom/mkhembrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
