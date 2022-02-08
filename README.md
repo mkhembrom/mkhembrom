@@ -3,7 +3,7 @@
 
 #### I like making things on **React/Nextjs** and **Flutter** 🤟😎. 
 
-- �⚡ I’m currently learning everything
+- ⚡ I’m currently learning everything
 - 📫 How to reach me: manjesh.hembrom@gmail.com
 - 😄 Listen music.
 
