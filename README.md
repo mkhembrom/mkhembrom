@@ -1,8 +1,11 @@
 ## Hi 👋, My name is **Manjesh Hembrom**
+## I'm full stack web and mobile developer with over 2+ hands-on-experience. 
 
 #### I like making things on **React/Nextjs** and **Flutter** 🤟😎. 
 
-- 🌱 I’m currently learning everything
+- �⚡ I’m currently learning everything
+- 📫 How to reach me: manjesh.hembrom@gmail.com
+- 😄 Listen music.
 
 <!--
 **mkhembrom/mkhembrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
