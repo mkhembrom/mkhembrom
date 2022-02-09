@@ -67,7 +67,7 @@ Hi, I'm [Manjesh Hembrom!](https://mkhembrom.hashnode.dev/), a passionate self-t
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ritwik2994's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ritwik2994&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manjesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mkhembrom&theme=monokai-metallian&hide_border=true"/>
   
   </a>
 </p>
