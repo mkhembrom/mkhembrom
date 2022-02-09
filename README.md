@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/ritwik2994">
   <img align="left" alt="Ritwik Rohitashwa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ritwik-rohitashwa/">
-  <img align="left" alt="Ritwik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/manjesh-hembrom/">
+  <img align="left" alt="Manjesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
@@ -42,8 +42,8 @@ Hi, I'm [Manjesh Hembrom!](https://mkhembrom.hashnode.dev/), a passionate self-t
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Microservices and  GrraphQL; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ritwik2994](https://twitter.com/ritwik2994);
-- 📝[Resume](https://drive.google.com/file/d/1mCYcZtDInuEgPu73B95IOo2O2_o0Yh31/view)
+- 📫 How to reach me: [@HembromManjesh](https://twitter.com/HembromManjesh);
+- 📝[Resume](https://drive.google.com/file/d/1GfSw7nKBtY5qBxqPeEobkedag-r4xgAw/view?usp=sharing)
 
   </p>
   
