@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/pcWeGQTs">
   <img align="left" alt="Ritwik's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/ritwik2994">
+<a href="https://twitter.com/HembromManjesh">
   <img align="left" alt="Ritwik Rohitashwa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/manjesh-hembrom/">
